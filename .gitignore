@@ -1,0 +1,18 @@
+# Environment secrets
+.env
+
+# Compiled binary
+crypto-bot
+
+# Go build artifacts
+*.exe
+*.test
+*.out
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db

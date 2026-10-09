@@ -1,0 +1,1 @@
+https://api.goldprice.dev/v1/prices?symbol=XAU-USD-SPOT
